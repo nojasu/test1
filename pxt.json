@@ -1,8 +1,9 @@
 {
-    "name": "test1",
+    "name": "Interrupteur",
     "description": "",
     "dependencies": {
-        "rpi-pico": "*"
+        "rpi-pico": "*",
+        "pkt-iscmons2": "github:iscmons/pkt-iscmons2#master"
     },
     "files": [
         "main.blocks",
